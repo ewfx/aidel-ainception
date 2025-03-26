@@ -1,3 +1,18 @@
-## Delete this file
-
-Instead place your source files here
+Requirements:
+spacy
+transformers
+datasets
+torch
+accelerate
+sentence_transformers
+fastapi
+scikit-learn
+pandas
+numpy
+streamlit
+uvicorn
+csv
+re
+logging
+request
+json

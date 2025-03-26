@@ -1,1 +1,1 @@
-
+Input transactions file is passed and transactions, entities are classified and saved. Sentiment Analysis on entities are done based on their wikipedia details, their scandals and other news collected. Risk analysis is done based on the results from sentiment analysis and background. FInally evidences are generated with risk score and category with justification.

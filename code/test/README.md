@@ -1,3 +1,1 @@
-## Delete this file
-
-Instead place your test files here
+Added test txt and csv file

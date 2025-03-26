@@ -14,7 +14,7 @@
 ---
 
 ## 🎯 Introduction
-AI based Entity Intelligence and Risk Scoring. Develop a sophisticated generative ai/ml powered system that automates the research and evidence-gathering process for identifying verifying and risk scoring entites from complex mulit source transaction data.
+AI based Entity Intelligence and Risk Scoring. Develop a sophisticated generative ai/ml powered system that automates the research and evidence-gathering process for identifying verifying and risk scoring entites from complex multi source transaction data.
 ## 🎥 Demo
 📹 [Video Demo](#) was attached in the Artifacts
 
@@ -23,7 +23,7 @@ AI based Entity Intelligence and Risk Scoring. Develop a sophisticated generativ
 
 
 ## ⚙️ What It Does
-Our model takes input transactions as a csv or text file and our entity extraction model then runs and gives us the entities involved in the transaction. We're using a Entity Classifier to classify the type of entities involved in the transaction. Risk of transaction will be calculated based on Transaction Amount, Payer and Receiver Geo Location, along with Payer and Receiver past history details form several open source datasets. Anomaly Entities are being identified and given high risk. ALong with risk score, we're assigning a risk category. Confidence score is calculated based on what sources we're asigning particular risk and the same will be mentioned in Supporting Evidence and Justification Text.
+Our model takes input transactions as a csv or text file and our entity extraction model then runs and gives us the entities involved in the transaction. We're using a Entity Classifier to classify the type of entities involved in the transaction. Risk of transaction will be calculated based on Transaction Amount, Payer and Receiver Geo Location, along with Payer and Receiver past history details form several open source datasets. Anomaly Entities are being identified and given high risk. Along with risk score, we're assigning a risk category. Confidence score is calculated based on what sources we're asigning particular risk and the same will be mentioned in Supporting Evidence and Justification Text.
 
 ## 🛠️ How We Built It
 Streamlit - UI

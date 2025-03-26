@@ -55,6 +55,9 @@ OpenCorporates was not accessible during the hackathon
 ## 🏗️ Tech Stack
 - 🔹 Frontend: Streamlit
 - 🔹 Backend: Python, Fast API
+- 🔹 Models used:
+     🔹https://huggingface.co/deepset/bert-base-cased-squad2
+     🔹https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2
 
 
 ## 👥 Team

@@ -65,4 +65,16 @@ OpenCorporates was not accessible during the hackathon
 - **Susmitha Priya Maddula**
 - **Rwitick Ghosh**
 - **Aakash Ravi**
-- **Ankita Singh**
+- **Ankita Singh**  
+
+### Model Attribution
+This project uses the [`deepset/bert-base-cased-squad2`](https://huggingface.co/deepset/bert-base-cased-squad2) model, developed by **deepset**.  
+The model is licensed under **CC-BY-4.0**.  
+
+This project utilizes the [`all-MiniLM-L6-v2`](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2) model, developed by the [Sentence-Transformers](https://www.sbert.net/) team. The model is licensed under the [Apache 2.0 License](https://www.apache.org/licenses/LICENSE-2.0).  
+
+
+**Citation:**  
+deepset. "BERT-Base, Cased, fine-tuned on SQuAD2.0." Hugging Face, 2021.  
+Available at: [https://huggingface.co/deepset/bert-base-cased-squad2](https://huggingface.co/deepset/bert-base-cased-squad2)
+

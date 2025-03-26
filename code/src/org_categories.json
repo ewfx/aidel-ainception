@@ -1,9 +1,0 @@
-{
-    "technology": ["software", "AI", "cloud computing", "semiconductors", "space", "computer", "video game"],
-    "banking": ["finance", "investment", "loans", "insurance", "banking"],
-    "automotive": ["electric vehicles", "car manufacturing", "transport"],
-    "energy": ["renewable energy", "oil", "solar panels"],
-    "healthcare": ["biotech", "pharmaceuticals", "medical devices"],
-    "retail": ["e-commerce", "fashion", "consumer goods", "textiles"],
-    "NGO": ["non-profit", "charity", "human rights"]
-  }

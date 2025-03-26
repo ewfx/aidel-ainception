@@ -14,26 +14,29 @@
 ---
 
 ## 🎯 Introduction
-A brief overview of your project and its purpose. Mention which problem statement are your attempting to solve. Keep it concise and engaging.
-
+AI based Entity Intelligence and Risk Scoring. Develop a sophisticated generative ai/ml powered system that automates the research and evidence-gathering process for identifying verifying and risk scoring entites from complex mulit source transaction data.
 ## 🎥 Demo
 🔗 [Live Demo](#) (if applicable)  
-📹 [Video Demo](#) (if applicable)  
+📹 [Video Demo](#) was attached in the Artifacts
+
 🖼️ Screenshots:
+![image](https://github.com/user-attachments/assets/44ad5957-11fe-4ac9-bc0e-9b99b3edf00f)
 
-![Screenshot 1](link-to-image)
-
-## 💡 Inspiration
-What inspired you to create this project? Describe the problem you're solving.
 
 ## ⚙️ What It Does
-Explain the key features and functionalities of your project.
+Our model takes input transactions as a csv or text file and our entity extraction model then runs and gives us the entities involved in the transaction. We're using a Entity Classifier to classify the type of entities involved in the transaction. Risk of transaction will be calculated based on Transaction Amount, Payer and Receiver Geo Location, along with Payer and Receiver past history details form several open source datasets. Anomaly Entities are being identified and given high risk. ALong with risk score, we're assigning a risk category. Confidence score is calculated based on what sources we're asigning particular risk and the same will be mentioned in Supporting Evidence and Justification Text.
 
 ## 🛠️ How We Built It
-Briefly outline the technologies, frameworks, and tools used in development.
+Streamlit - UI
+BERT - Entity Extraction
+Sentiment Analysis
+Pandas - DataFrames
+Spacy 
+Uvicorn
+HuggingFace Transformers
 
 ## 🚧 Challenges We Faced
-Describe the major technical or non-technical challenges your team encountered.
+OpenCorporates was not accessible during the hackathon 
 
 ## 🏃 How to Run
 1. Clone the repository  
@@ -50,11 +53,12 @@ Describe the major technical or non-technical challenges your team encountered.
    ```
 
 ## 🏗️ Tech Stack
-- 🔹 Frontend: React / Vue / Angular
-- 🔹 Backend: Node.js / FastAPI / Django
-- 🔹 Database: PostgreSQL / Firebase
-- 🔹 Other: OpenAI API / Twilio / Stripe
+- 🔹 Frontend: Streamlit
+- 🔹 Backend: Python
+
 
 ## 👥 Team
-- **Your Name** - [GitHub](#) | [LinkedIn](#)
-- **Teammate 2** - [GitHub](#) | [LinkedIn](#)
+- **ThilakSurya B**'
+- **Susmitha Priya Maddula**
+- **Rwitick Ghosh**
+- **Aakash Ravi**

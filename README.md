@@ -16,7 +16,6 @@
 ## 🎯 Introduction
 AI based Entity Intelligence and Risk Scoring. Develop a sophisticated generative ai/ml powered system that automates the research and evidence-gathering process for identifying verifying and risk scoring entites from complex mulit source transaction data.
 ## 🎥 Demo
-🔗 [Live Demo](#) (if applicable)  
 📹 [Video Demo](#) was attached in the Artifacts
 
 🖼️ Screenshots:
@@ -55,11 +54,11 @@ OpenCorporates was not accessible during the hackathon
 
 ## 🏗️ Tech Stack
 - 🔹 Frontend: Streamlit
-- 🔹 Backend: Python
+- 🔹 Backend: Python, Fast API
 
 
 ## 👥 Team
-- **ThilakSurya B**'
+- **ThilakSurya B**
 - **Susmitha Priya Maddula**
 - **Rwitick Ghosh**
 - **Aakash Ravi**

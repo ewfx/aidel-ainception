@@ -1,5 +1,3 @@
-Replace this file with files that you would like to use for your demo. This may include
+Input transactions were processed for Entity Extraction, Entity Classification. Based on Entity Past history, transaction, anomalies are identified and risk score will be assigned along with category. Sources are stored to prove the justification and evidence
 
-- A presentation/deck in pdf or pptx format
-- A demo video (screen capture) in mp4 or other popular video formats
-- Any other document describing your solution (in pdf or md format)
+Video is attached

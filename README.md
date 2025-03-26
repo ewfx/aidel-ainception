@@ -58,7 +58,8 @@ OpenCorporates was not accessible during the hackathon
 
 
 ## 👥 Team
-- **ThilakSurya B**
+- **Thilaksurya B**
 - **Susmitha Priya Maddula**
 - **Rwitick Ghosh**
 - **Aakash Ravi**
+- **Ankita Singh**

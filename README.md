@@ -34,6 +34,7 @@ Pandas - DataFrames
 Spacy 
 Uvicorn
 HuggingFace Transformers
+FastAPI
 
 ## 🚧 Challenges We Faced
 OpenCorporates was not accessible during the hackathon 

@@ -1,3 +1,1 @@
-Replace this file with a document that describes the architecture and design of your solution architecture. This may include
-    - An architecture drawing exported into a png/jpeg format image
-    - A document in pdf or md format that describes your solution
+Input transactions were processed for Entity Extraction, Entity Classification. Based on Entity Past history, transaction, anomalies are identified and risk score will be assigned along with category. Sources are stored to prove the justification and evidence
